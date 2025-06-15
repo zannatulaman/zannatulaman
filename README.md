@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Zannatul Shaoulin</h1>
+<h1 align="center">Hi 👋, I'm Zannatul Shaolin</h1>
 <h1 align="left">
   🧑, About Me
   <h3 align="left">Hey! 👋 I'm a MERN stack developer, focusing on React for front-end and exploring Next.js. comfortanle in Node.js, Express, and MongoDB for the back end. On a mission to become a versatile full-stack developer, aiming to craft seamless, user-centric web experiences. Let's connect and build something amazing! 🚀
