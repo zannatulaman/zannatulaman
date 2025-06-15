@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="https://img.freepik.com/premium-vector/caucasian-female-software-developer-her-40s-debugging-program_1238364-100323.jpg?ga=GA1.1.2070928879.1750021531&semt=ais_hybrid&w=740" alt="Female-developer">
+  <img 
+    src="https://img.freepik.com/premium-vector/caucasian-female-software-developer-her-40s-debugging-program_1238364-100323.jpg?ga=GA1.1.2070928879.1750021531&semt=ais_hybrid&w=740" 
+    alt="Female-developer"
+    width="300"
+    height="300"
+  >
 </p>
 
 
