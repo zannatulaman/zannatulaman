@@ -23,15 +23,23 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
 
 <h3 align="left">💻 What I do:</h3>
 
-- 🌱 - Crafting responsive and user-friendly interfaces using *React*
+🌱 – Crafting responsive, accessible, and user-centric interfaces using React and Next.js, leveraging hooks, context API, and component-based architecture
 
-- 👩‍💻 - Building RESTful APIs with *Node.js* and *Express*
-  
-- 💾 - Integrating *MongoDB* for database management with *Mongoose*
+👩‍💻 – Building robust and scalable RESTful APIs with Node.js and Express, handling authentication, middleware, and error management
 
-- 🌐 - Creating seamless end-to-end web applications
+💾 – Managing data efficiently with MongoDB, using Mongoose for schema design, validation, and data modeling
 
+⚙️ – Implementing user authentication and authorization using JWTs, bcrypt, and secure storage practices
 
+🧠 – Utilizing React Hooks and custom hooks for state and lifecycle management in modern web applications
+
+🛠 – Creating full-stack applications with seamless frontend–backend integration, emphasizing performance and code maintainability
+
+🧪 – Testing and debugging using Postman, console logging, and error boundaries to ensure smooth development
+
+🎨 – Styling applications with SCSS, Tailwind CSS, Bootstrap, and component libraries like shadcn/ui
+
+🚀 – Continuously learning and staying up to date with modern JavaScript features, full-stack trends, and best practices in web development
 
  <h3 align="left">👀 Current overview:</h3>
 
