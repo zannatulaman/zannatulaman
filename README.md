@@ -6,17 +6,33 @@
   >
 </p>
 
+<h1 align="center">👋 Hi, I'm <span style="color:#6C63FF;">Zannatul Shaolin</span></h1>
 
-<h1 align="center">Hi 👋, I'm Zannatul Shaolin</h1>
-<h1 align="left">
-  🧑, About Me
-  <h3 align="left">Hello! 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Full-Stack+MERN+Developer;React+%7C+Next.js+Enthusiast;Node.js+%7C+Express+%7C+MongoDB;Let's+Build+Something+Amazing+🚀" alt="Typing SVG" />
+</p>
 
-I'm a MERN stack developer with a strong focus on React for front-end development and hands-on experience with Next.js. On the backend, I work comfortably with Node.js, Express, and MongoDB to build scalable and efficient applications.
+---
 
-I'm currently on a journey to become a well-rounded full-stack developer, dedicated to creating seamless, user-focused web experiences. Let's connect and collaborate on something impactful! 🚀
-</h3>
-</h1>
+<h2 align="left">🧑‍💻 About Me</h2>
+
+<ul>
+  <li>🎯 Passionate MERN stack developer focused on building scalable and intuitive web applications</li>
+  <li>⚛️ Specialized in <strong>React</strong> and exploring <strong>Next.js</strong> for dynamic frontend solutions</li>
+  <li>🛠️ Skilled in creating robust <strong>RESTful APIs</strong> with <strong>Node.js</strong> and <strong>Express</strong></li>
+  <li>💾 Proficient in <strong>MongoDB</strong> with <strong>Mongoose</strong> for flexible and efficient database management</li>
+  <li>🧠 Currently mastering full-stack integration and advancing authentication with <strong>JWT</strong> & <strong>bcrypt</strong></li>
+  <li>📫 Let's connect and collaborate on something innovative and user-driven!</li>
+</ul>
+
+---
+
+<h3 align="center">🚀 Let's Code Together!</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Coding gif" />
+</p>
+
+
 
 <img align="right" 
 width="400" height="350" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
