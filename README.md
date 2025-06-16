@@ -8,11 +8,12 @@
 
 <h1 align="center"><strong><em>👋 Hi, I'm <span style="color:#6C63FF;">Zannatul Shaolin</span></em></strong></h1>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img 
+    src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+MERN+Developer;React+%7C+Next.js+Enthusiast;Node.js+%7C+Express+%7C+MongoDB;Let%27s+Build+Something+Amazing+%F0%9F%9A%80&font=Fira+Code&center=true&width=435&height=50&duration=4000&pause=1000" 
+    alt="Typing SVG" />
 </p>
----
+
 
 <h2 align="left">🧑‍💻 About Me</h2>
 
