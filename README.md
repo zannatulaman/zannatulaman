@@ -11,8 +11,8 @@
 
 <p align="center">
   <img
-    src="![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Full-Stack+MERN+Developer;React+%7C+Next.js+Enthusiast;Node.js+%7C+Express+%7C+MongoDB;Let's+Build+Something+Amazing+🚀)
-"alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Full-Stack+MERN+Developer;React+%7C+Next.js+Enthusiast;Node.js+%7C+Express+%7C+MongoDB;Let's+Build+Something+Amazing+🚀"
+    alt="Typing SVG"
   />
 </p>
 
