@@ -6,7 +6,8 @@
   >
 </p>
 
-<h1 align="center"><i>👋 Hi, I'm <span style="color:#6C63FF;">Zannatul Shaolin</span></i></h1>
+<h1 align="center"><strong><em>👋 Hi, I'm <span style="color:#6C63FF;">Zannatul Shaolin</span></em></strong></h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Full-Stack+MERN+Developer;React+%7C+Next.js+Enthusiast;Node.js+%7C+Express+%7C+MongoDB;Let's+Build+Something+Amazing+🚀" alt="Typing SVG" />
