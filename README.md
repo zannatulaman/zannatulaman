@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.coursera.org%2Farticles%2Fai-trends&psig=AOvVaw2iIZtZTwtBeYVmLMSt9San&ust=1750197455482000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjTgeL39o0DFQAAAAAdAAAAABAE" 
+    src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/wp1lcwdav1p1/58nRPszSXeI6wDsfzbvFeo/d14f7b27223a7ec007aab4456b4fab78/GettyImages-1159379067.jpeg?w=1500&h=680&q=60&fit=fill&f=faces&fm=jpg&fl=progressive&auto=format%2Ccompress&dpr=2&w=1000" 
     alt="Female-developer"
    
   >
