@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://ifda.in/img/mern-stack-development.webp" 
+    src="https://www.shutterstock.com/image-vector/web-development-landing-page-people-characters-1838445880" 
     alt="Female-developer"
    
   >
