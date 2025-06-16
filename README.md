@@ -69,8 +69,8 @@
 <!-- Female developer animation -->
 <p align="center">
    <img 
-  src="https://img.freepik.com/premium-vector/caucasian-female-software-developer-her-40s-debugging-program_1238364-100323.jpg?ga=GA1.1.2070928879.1750021531&semt=ais_hybrid" 
-  width="500" 
+  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Ffemale-developer&psig=AOvVaw1ZJJ9tbqfBHQ6vLOxBC44K&ust=1750198225263000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjr99f69o0DFQAAAAAdAAAAABAE" 
+  width="400" 
   height="350" 
   alt="Female Full-Stack Developer" 
 />
