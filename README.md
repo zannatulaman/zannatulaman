@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://www.shutterstock.com/image-vector/web-development-landing-page-people-characters-1838445880" 
+    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.coursera.org%2Farticles%2Fai-trends&psig=AOvVaw2iIZtZTwtBeYVmLMSt9San&ust=1750197455482000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjTgeL39o0DFQAAAAAdAAAAABAE" 
     alt="Female-developer"
    
   >
