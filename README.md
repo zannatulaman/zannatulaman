@@ -70,8 +70,7 @@
 <p align="center">
    <img 
   src="https://media.istockphoto.com/id/939787416/photo/two-female-programmers-working-on-new-project-they-working-late-at-night-at-the-office.jpg?s=612x612&w=0&k=20&c=QfNngcOWfyX2ZFWk6XP4wXzlMSF0xDEA34Vyc9fuWms=" 
-  width="400" 
-  height="350" 
+ 
   alt="Female Full-Stack Developer" 
 />
 
