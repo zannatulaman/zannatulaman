@@ -10,7 +10,11 @@
 <h1 align="center">Hi 👋, I'm Zannatul Shaolin</h1>
 <h1 align="left">
   🧑, About Me
-  <h3 align="left">Hey! 👋 I'm a MERN stack developer, focusing on React for front-end and exploring Next.js. comfortanle in Node.js, Express, and MongoDB for the back end. On a mission to become a versatile full-stack developer, aiming to craft seamless, user-centric web experiences. Let's connect and build something amazing! 🚀
+  <h3 align="left">Hello! 👋
+
+I'm a MERN stack developer with a strong focus on React for front-end development and hands-on experience with Next.js. On the backend, I work comfortably with Node.js, Express, and MongoDB to build scalable and efficient applications.
+
+I'm currently on a journey to become a well-rounded full-stack developer, dedicated to creating seamless, user-focused web experiences. Let's connect and collaborate on something impactful! 🚀
 </h3>
 </h1>
 
