@@ -68,7 +68,13 @@
 
 <!-- Female developer animation -->
 <p align="center">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/female-programmer-4240882-3532914.png" width="500" alt="Female Full-Stack Developer"
+   <img 
+  src="https://img.freepik.com/premium-vector/caucasian-female-software-developer-her-40s-debugging-program_1238364-100323.jpg?ga=GA1.1.2070928879.1750021531&semt=ais_hybrid" 
+  width="500" 
+  height="350" 
+  alt="Female Full-Stack Developer" 
+/>
+
 </p>
 
 <h3 align="center">📬 Connect with me:</h3>
