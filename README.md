@@ -9,7 +9,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#6C63FF;">Zannatul Shaolin</span></h1>
 
 <p align="center">
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Full-Stack+MERN+Developer;React+%7C+Next.js+Enthusiast;Node.js+%7C+Express+%7C+MongoDB;Let's+Build+Something+Amazing+🚀)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Full-Stack+MERN+Developer;React+%7C+Next.js+Enthusiast;Node.js+%7C+Express+%7C+MongoDB;Let's+Build+Something+Amazing+🚀" alt="Typing SVG" />
 </p>
 
 ---
