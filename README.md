@@ -56,10 +56,18 @@
 
 <h3 align="left">👀 Current Overview:</h3>
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&width=500&lines=🚀+Exploring+Next.js;⚛+Working+with+React;🌐💻+Implementing+MongoDB+%2C+Mongoose+%2C+Express+%2C+Node.js;🌐🚀+Building+Full-Stack+Sites;📚+Continuous+Learning" alt="Typing Overview" />
-</p>
+<ul>
+  <li>🚀 Actively exploring <strong>Next.js</strong> for advanced routing, SSR/SSG, and performance optimization</li>
+  <li>⚛ Building modular, interactive UIs with <strong>React</strong>, leveraging hooks and context API</li>
+  <li>🌐💻 Developing secure and scalable backends using <strong>Node.js</strong>, <strong>Express</strong>, and <strong>MongoDB</strong> (via <strong>Mongoose</strong>)</li>
+  <li>🛠️ Implementing <strong>user authentication</strong> using JWT, bcrypt, and middleware logic</li>
+  <li>📁 Managing full-stack integration, RESTful APIs, and real-world project structure</li>
+  <li>📚 Committed to continuous learning and contributing to clean, maintainable codebases</li>
+</ul>
 
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500" alt="Full-stack development animation">
+</p>
 
 
 <h3 align="center">Connect with me:</h3>
