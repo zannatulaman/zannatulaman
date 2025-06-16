@@ -74,9 +74,10 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/zannatul-shaolin-333262332/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zannatul-shaolin-333262332/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/shaolin.aman.shalu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shaolin.aman.shalu/" height="30" width="40" /></a>
-<a href="mailto:shaolinzannatul@gmail.com" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="khanshohaibhossain@gmail.com" height="30" width="40" />
+<a href="mailto:shaolinzannatul@gmail.com" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="Email Shaolin" height="30" width="40" />
 </a>
+
   
 </p>
 
