@@ -54,18 +54,12 @@
 
 🚀 – Continuously learning and staying up to date with modern JavaScript features, full-stack trends, and best practices in web development
 
- <h3 align="left">👀 Current overview:</h3>
+<h3 align="left">👀 Current Overview:</h3>
 
-1. *Exploring Next.js* 🚀
-   
-2. *Working with React* ⚛
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&width=500&lines=🚀+Exploring+Next.js;⚛+Working+with+React;🌐💻+Implementing+MongoDB+%2C+Mongoose+%2C+Express+%2C+Node.js;🌐🚀+Building+Full-Stack+Sites;📚+Continuous+Learning" alt="Typing Overview" />
+</p>
 
-3. *Implementing MongoDB, Mongoose, Express, Node.js Stack*  
-   *in Full Stack Development* 🌐💻
-
-4. *Building Full-Stack Sites* 🌐🚀
-
-5. *Continuous Learning* 📚
 
 
 <h3 align="center">Connect with me:</h3>
