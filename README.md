@@ -68,13 +68,14 @@
 
 <!-- Female developer animation -->
 <p align="center">
-   <img 
-  src="https://media.istockphoto.com/id/939787416/photo/two-female-programmers-working-on-new-project-they-working-late-at-night-at-the-office.jpg?s=612x612&w=0&k=20&c=QfNngcOWfyX2ZFWk6XP4wXzlMSF0xDEA34Vyc9fuWms=" 
- 
-  alt="Female Full-Stack Developer" 
-/>
-
+  <img 
+    src="https://media.istockphoto.com/id/939787416/photo/two-female-programmers-working-on-new-project-they-working-late-at-night-at-the-office.jpg?s=612x612&w=0&k=20&c=QfNngcOWfyX2ZFWk6XP4wXzlMSF0xDEA34Vyc9fuWms=" 
+    alt="Female Full-Stack Developer"
+    width="600"
+    style="border-radius: 15px; max-width: 100%; height: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" 
+  />
 </p>
+
 
 <h3 align="center">📬 Connect with me:</h3>
 
