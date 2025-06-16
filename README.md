@@ -10,13 +10,8 @@
 
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Full-Stack+MERN+Developer;React+%7C+Next.js+Enthusiast;Node.js+%7C+Express+%7C+MongoDB;Let's+Build+Something+Amazing+🚀"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
-
-
 ---
 
 <h2 align="left">🧑‍💻 About Me</h2>
