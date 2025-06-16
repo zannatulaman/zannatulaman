@@ -69,7 +69,7 @@
 <!-- Female developer animation -->
 <p align="center">
    <img 
-  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Ffemale-developer&psig=AOvVaw1ZJJ9tbqfBHQ6vLOxBC44K&ust=1750198225263000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjr99f69o0DFQAAAAAdAAAAABAE" 
+  src="https://media.istockphoto.com/id/939787416/photo/two-female-programmers-working-on-new-project-they-working-late-at-night-at-the-office.jpg?s=612x612&w=0&k=20&c=QfNngcOWfyX2ZFWk6XP4wXzlMSF0xDEA34Vyc9fuWms=" 
   width="400" 
   height="350" 
   alt="Female Full-Stack Developer" 
