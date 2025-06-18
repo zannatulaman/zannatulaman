@@ -151,6 +151,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zannatulaman&theme=highcontrast" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=zannatulaman&theme=highcontrast" alt="GitHub Streak" />
 </p>
+
 
